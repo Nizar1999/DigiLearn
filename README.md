@@ -38,3 +38,5 @@ j.	Are you worried that you’ll lose track of your progress while on your learn
 Simple user interface 
 
 k.	DigiLearn does a lot of important stuff but it does it elegantly,” Simplicity is the ultimate sophistication” -L.DaVinci . This is the way we developed our application to be simple and effective so everyone can use it. Education should not be obstructed by a complicated interface
+
+# Check Wiki for details on usage and implementation.
