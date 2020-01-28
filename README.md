@@ -12,6 +12,7 @@ Login interface
 a.	Users can Sign-up to DigiLearn by creating an account to which their course progress is linked.
 
 b.	Users can login back to their account at any time to resume their learning path.
+
 Security
 
 c.	DigiLearn was built to be secure and trust worthy therefore we took the extra step to encrypt your password so that no one other than you can access your account.
