@@ -32,6 +32,7 @@ Dynamic representation of courses
 h.	DigiLearn has been developed to make your life easier not harder. That is why DigiLearn was made to be dynamic in representing courses and their content.
 
 i.	Users can simply copy the course folder and paste it on another computer then add the name of the folder to the Metadata text file in the DigiLearn directory, and just like that the course has been transferred to a new PC. 
+
 Progress tracking 
 
 j.	Are you worried that you’ll lose track of your progress while on your learning journey? Well guess what, DigiLearn got you covered again. We integrated a progress bar on main pages so you can keep track of your progress. Not only that, but your progress is linked to your account, so that the next time you log in, everything will be there waiting for you to resume your learning journey.
