@@ -1,4 +1,7 @@
-# DigiLearn Features:
+<p align="center">
+  <img src="https://github.com/Nizar1999/DigiLearn/blob/master/screenshots/Banner.png" width = 55%; height=55% />
+</p>
+# Features
 
 - Users can sign-up to DigiLearn by creating an account to which their course progress is linked and maintained. 
 Accounts and passwords are stored locally and encrypted using a hashing like algorithm.
