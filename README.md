@@ -26,7 +26,7 @@
 
 # Usage
 
-![pic1](https://ibb.co/n3VhmB1)
+![pic1]("https://ibb.co/n3VhmB1")
 Upon looking at the above screenshot, one can notice that all the courses are presented as folders by their names and that there exists a Metadata text file containing the names of all courses. Each course folder also contains the corresponding chapters as folders themselves.
 
 https://ibb.co/pngDLNC
