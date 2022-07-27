@@ -4,6 +4,8 @@
 
 # Features
 
+![Languages](https://img.shields.io/badge/-Java-%23A1E88E?style=for-the-badge) 
+
 - Users can sign-up to DigiLearn by creating an account to which their course progress is linked and maintained. 
 Accounts and passwords are stored locally and encrypted using a hashing like algorithm.
 
