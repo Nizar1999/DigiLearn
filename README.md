@@ -26,4 +26,4 @@
 
 ![ERD](./screenshots/ERD.png)
 
-[More Information]("https://github.com/Nizar1999/DigiLearn/wiki")
+[More Information](https://github.com/Nizar1999/DigiLearn/wiki)
