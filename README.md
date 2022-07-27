@@ -7,7 +7,8 @@
 # Features
 
 - Users can sign-up to DigiLearn by creating an account to which their course progress is linked and maintained. 
-Accounts and passwords are stored locally and encrypted using a hashing like algorithm.
+
+- Accounts and passwords are stored locally and encrypted.
 
 - A course creator that allows for extremely easy creation of custom courses.
 
