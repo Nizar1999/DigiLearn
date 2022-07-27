@@ -22,20 +22,8 @@
 
 - Progress tracking across different courses.
 
-# Check Wiki for details on usage and implementation.
+# Entity Relationship Diagram
 
-# Usage
+![ERD](./screenshots/ERD.png)
 
-![Courses](./screenshots/Courses.png)
-Upon looking at the above screenshot, one can notice that all the courses are presented as folders by their names and that there exists a Metadata text file containing the names of all courses. Each course folder also contains the corresponding chapters as folders themselves.
-
-![Meta](./screenshots/Meta.png)
-Upon closer inspection of the Metadata text file in the course folder, we can see that it contains the chapter names by order.
-
-Inside the chapter folders, each chapter contains a bunch of text files holding data that is read by DigiLearn to present the course.
-
-![Resources](./screenshots/Resources.png)
-The resources folder contains the images of the courses, and a folder by the name of Accounts which contains all the accounts created and their corresponding data inside them.
-
-![Encrypted](./screenshots/Encrypted.png)
-Inside each user folder there exists two text files, the first (one named the same as the username) contains the encrypted password of the user. The other contains the progress of the user in each course, course1/course2/course3 where courses 1 and 2 have 0 chapters completed, but course 3 has 4 chapters completed.
+[More Information]("https://github.com/Nizar1999/DigiLearn/wiki")
